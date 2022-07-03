@@ -136,6 +136,7 @@ include:
   - _pages
   - assets
   - _docs
+  - /
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
